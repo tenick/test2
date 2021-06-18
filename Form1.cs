@@ -14,6 +14,7 @@ namespace test2
     {
         public Form1()
         {
+			string hi = "added hi";
             InitializeComponent();
         }
     }

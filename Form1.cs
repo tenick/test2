@@ -14,7 +14,11 @@ namespace test2
     {
         public Form1()
         {
+<<<<<<< HEAD
 			string hi = "added hi";
+=======
+			string hello = "new change";
+>>>>>>> 37094dcc2ed6de6ffe5033f6e6cd3ee113438d31
             InitializeComponent();
         }
     }

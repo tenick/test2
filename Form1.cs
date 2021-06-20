@@ -15,6 +15,7 @@ namespace test2
         public Form1()
         {
 			string hi = "added hi";
+			string b2 = "da b2 branch";
             InitializeComponent();
         }
     }
